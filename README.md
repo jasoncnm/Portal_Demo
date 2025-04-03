@@ -12,7 +12,7 @@
  # Quick Start
  Install Unity
  
- Open [DEMO_ANTICHAMBER.unityunity](Assets/Scenes/) with Unity in the Assets/Scenes folder
+ Open [DEMO_ANTICHAMBER.unity](Assets/Scenes/) with Unity in the Assets/Scenes folder
 
 # Short Gameplay Demo
  [link](https://www.youtube.com/watch?v=gfA73xbqRxA)
